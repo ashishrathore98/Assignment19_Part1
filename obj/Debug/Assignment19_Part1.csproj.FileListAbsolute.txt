@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Day16\Assignment19_Part1\Assignment19_Part1\bin\Debug\Assignment19_Part1.exe.config
+D:\SimpliLearn Course\Day16\Assignment19_Part1\Assignment19_Part1\bin\Debug\Assignment19_Part1.exe
+D:\SimpliLearn Course\Day16\Assignment19_Part1\Assignment19_Part1\bin\Debug\Assignment19_Part1.pdb
+D:\SimpliLearn Course\Day16\Assignment19_Part1\Assignment19_Part1\obj\Debug\Assignment19_Part1.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Day16\Assignment19_Part1\Assignment19_Part1\obj\Debug\Assignment19_Part1.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Day16\Assignment19_Part1\Assignment19_Part1\obj\Debug\Assignment19_Part1.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Day16\Assignment19_Part1\Assignment19_Part1\obj\Debug\Assignment19_Part1.exe
+D:\SimpliLearn Course\Day16\Assignment19_Part1\Assignment19_Part1\obj\Debug\Assignment19_Part1.pdb
